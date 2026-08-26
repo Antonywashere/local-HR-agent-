@@ -1,0 +1,24 @@
+PYTHON DEVELOPER JOB DESCRIPTION
+ 
+Required Skills:
+ 
+- Python
+- SQL
+- Git
+ 
+Preferred Skills:
+ 
+- Docker
+- FastAPI
+- LangChain
+ 
+Responsibilities:
+ 
+- Develop APIs
+- Build AI applications
+- Work with databases
+- Participate in code reviews
+ 
+Experience Required:
+ 
+Minimum 2 years
