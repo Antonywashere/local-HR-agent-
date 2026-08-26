@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31478823/README.md)
+
 # HR Recruitment Assistant
 
 An AI-powered HR recruitment assistant built with **LangChain**, **Ollama**, and **FAISS**. It answers company policy questions using Retrieval-Augmented Generation (RAG), evaluates candidate eligibility, calculates experience, generates interview questions, and extracts structured candidate details from resumes — all through a simple command-line chat interface.
