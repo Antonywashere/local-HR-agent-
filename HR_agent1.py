@@ -16,6 +16,8 @@ from langchain_classic.agents import (
     create_tool_calling_agent,
     AgentExecutor
 )
+
+from pathlib import Path 
  
 # ==================================
 # MODEL
@@ -39,8 +41,12 @@ embeddings = OllamaEmbeddings(
     model="nomic-embed-text"
 )
  
+BASE_DIR = Path(__file__).parent
+
+folder = BASE_DIR / 'HR_vector_db'
+ 
 vector_db = FAISS.load_local(
-    "hr_vector_db",
+    folder,
     embeddings,
     allow_dangerous_deserialization=True
 )
