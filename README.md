@@ -117,7 +117,3 @@ You'll see a chat prompt where you can:
 - Add persistent chat memory across sessions
 - Build a web UI (e.g., Streamlit or Gradio) instead of the CLI loop
 - Add automated tests for tools and the RAG pipeline
-
-## License
-
-Add your license of choice here (e.g., MIT).
